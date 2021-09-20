@@ -28,10 +28,9 @@ public class PayMoneyDriver {
 				if(res == 0)
 					System.out.println("Given target is not achieved.");
 				else
-					System.out.println("The target achieved after "+res+" transactions.");
-				maxTxnsTarget--;
+					System.out.println("Target achieved after "+res+" transactions.");
 			}
+			maxTxnsTarget--;
 		}
 	}
-
 }
