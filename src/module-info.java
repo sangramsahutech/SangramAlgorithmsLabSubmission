@@ -1,2 +1,2 @@
-module ProjectPayMoney {
+module MinCurrencyExchange {
 }
